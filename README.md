@@ -38,8 +38,14 @@ $c = $a + $b;
 > Какая-то цитата  
 > Новая строка цитаты
 
-[Text](http://yandex.ru)
+[Google](http://google.com)
 
-![](img/15163.jpg)
+![Айти Пальмы](img/15163.jpg)
 
 [![Яндекс Топ](img/yandextop.jpg)](http://yandex.ru)
+
+| Item     | Value | Quantity |
+| :------- | :---: | -------: |
+| Computer | 1600  |        3 |
+| Phone    |  12   |        2 |
+| Pipe     |   1   |        1 |
