@@ -42,6 +42,4 @@ $c = $a + $b;
 
 ![](img/15163.jpg)
 
-[Text]()
-
 [![Яндекс Топ](img/yandextop.jpg)](http://yandex.ru)
